@@ -1,5 +1,5 @@
 # Starter Web Repo
-This is a simple website project for class. Adding a line for rebasing example, then more changes from myfeature branch too.
+This is a simple website project for class. Updating line for emergency fix after stash
 ## Introduction
 Text written here
 ## Purpose
