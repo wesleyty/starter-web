@@ -10,7 +10,7 @@ this is a smple web project, deployment can be on any web
 
 ##Copyright
 
-2017 Git.training. ALl rights reserved.
+2017 Git.training. ALl rights reserved. the thing
 
 ## How to Contribute
 please fork this repository and then issue Pull Requests for review.
