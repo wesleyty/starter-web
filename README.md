@@ -1,5 +1,5 @@
 # Starter Web Repo
-This is a simple website project for class. Adding a line for rebasing example.
+This is a simple website project for class. Adding a line for rebasing example, then more changes from myfeature branch too.
 ## Introduction
 Text written here
 ## Purpose
