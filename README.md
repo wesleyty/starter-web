@@ -8,5 +8,9 @@ this is the purpose
 
 this is a smple web project, deployment can be on any web
 
+##Copyright
+
+2017 Git.training.
+
 ## How to Contribute
 
