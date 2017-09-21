@@ -1,5 +1,5 @@
 # Starter Web Repo
-This is a simple website project for class.
+This is a simple website project for class. Adding a line for rebasing example.
 ## Introduction
 Text written here
 ## Purpose
