@@ -13,4 +13,4 @@ this is a smple web project, deployment can be on any web
 2017 Git.training.
 
 ## How to Contribute
-
+please fork this repository and then issue Pull Requests for review.
